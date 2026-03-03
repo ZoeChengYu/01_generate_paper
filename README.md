@@ -1,7 +1,9 @@
 # Generate Manuscript Paper
 [[Github]](https://github.com/lctung/01-1_generate_paper)  [[Hackmd]](https://hackmd.io/@tung23/r1KVpaO8Wx)  `114-2 生成式人工智慧`
-<br>
+
 ![flow](./img/flow.png)
+
+----
 ```
 # [稿紙對應編號]
 1. 千字文
@@ -68,7 +70,7 @@ cd D:\NTUT\AI\Font-Project\01_generate_paper-main
 - 將該次[作業](https://tjhsieh.github.io/c/ai/ai2026s/hw/index.html)的指定稿紙內容貼至 `manuscript_paper.txt`
 - 貼上時，請略過所有 **來源連結**、**標題**
 - 除了 `詩經` 請連標題一起貼
-- 有 **空行**、**空格**、**標點符號** 沒關係
+- 有 **標點符號**、**空行**、**空格**、**標點符號** 沒關係
 
 ### 2. 切換目錄至 `1_generate_CP950`
 ```
@@ -150,7 +152,7 @@ python 4_PDFmerge.py
 - [作業網站連結](https://tjhsieh.github.io/c/ai/ai2026s/hw/index.html) 
 - 將前4份稿紙內容貼至 `all_manuscript.txt`
 - 貼上時，請略過所有 **來源連結**
-- 有 **空行**、**空格**、**標點符號** 沒關係
+- 有 **標題**、**空行**、**空格**、**標點符號** 沒關係
 
 ### 2. 切換目錄至 `1_generate_CP950`
 ```
