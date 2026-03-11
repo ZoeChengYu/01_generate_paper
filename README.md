@@ -146,7 +146,7 @@ python 2_QR_add.py
 python 3_SVG2PDF.py
 ```
 #### (4) 多個 pdf 檔案合併成一個 pdf 檔案
-<<<<<<< HEAD
+
 儲存位置：`.\2_generate_manuscript\manuscripts-final`
 
 ```
