@@ -22,3 +22,5 @@ manuscripts-final/
 # -- 個人項目 --
 114598033*
 
+.vscode/settings.json
+.idea/workspace.xml
